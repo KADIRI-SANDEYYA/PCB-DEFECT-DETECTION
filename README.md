@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
 # 🔍 Automated PCB Defect Detection using YOLOv8
 
 An AI-powered system for **real-time detection of defects in Printed Circuit Boards (PCBs)** using the **YOLOv8** deep learning architecture.  
@@ -73,19 +70,19 @@ This project replaces manual inspection with an **AI-powered solution** for **ac
 git clone https://github.com/your-username/PCB-Defect-Detection-YOLOv8.git
 cd PCB-Defect-Detection-YOLOv8
 
-# Create a Python virtual environment
+### Create a Python virtual environment
 python -m venv pcb
 
-# Activate the virtual environment
-# Windows
+### Activate the virtual environment
+#### Windows
 pcb\Scripts\activate
-# Linux/Mac
+#### Linux/Mac
 source pcb/bin/activate
 
-# Install required Python packages
+### Install required Python packages
 pip install -r requirements.txt
 
-# Run the Streamlit application
+### Run the Streamlit application
 streamlit run app2.py
 
 ---
@@ -96,17 +93,18 @@ PCB Image → Preprocessing (OpenCV) → YOLOv8 Model → Defect Detection → S
 
 ## 📷 App Preview
 
-### Home / Landing Page  
-![Home](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/screenshots/Home.png)
+### Home / Landing Page
+![Home Page](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/HomePage.png)
+*Landing page of the PCB Defect Detection app where users can navigate to upload PCB images and start detection.*
 
-### Upload PCB Image / Preprocessing  
-![Upload PCB](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/screenshots/Upload_PCB.png)
+### Single Defect Detection
+![Single Defect](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/Single_Defects.png)
+*Example of detecting a single defect on a PCB. The app highlights the defect detected by the YOLOv8 model.*
 
-### YOLOv8 Model / Defect Detection  
-![Defect Detection](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/screenshots/YOLOv8_Detection.png)
+### Multiple Defect Detection
+![Multiple Defects](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/Multiple_Defects.png)
+*Example of detecting multiple defects on a PCB. Each defect is highlighted and labeled clearly for easy analysis.*
 
-### Results / Streamlit Visualization  
-![Results](https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION/blob/main/screenshots/Results.png)
 
 ---
 
@@ -139,17 +137,3 @@ PCB Image → Preprocessing (OpenCV) → YOLOv8 Model → Defect Detection → S
 - 📧 **Email**: kadirisamson81@gmail.com
 - 💼 **LinkedIn**: [My Linkedin Profile](https://www.linkedin.com/in/kadirisandeyya)
 =======
-# PCB-DEFECT-DETECTION
-AI-powered system for real-time detection of PCB defects (missing holes, solder bridges, open circuits) using YOLOv8. Features high-precision, GPU-accelerated inference and an interactive Streamlit interface, reducing manual inspection and enabling scalable industrial deployment.
->>>>>>> e885703 (Initial commit)
-=======
-# PCB-DEFECT-DETECTION
-=======
-# PCB-DEFECT-DETECTION
-AI-powered system for real-time detection of PCB defects (missing holes, solder bridges, open circuits) using YOLOv8. Features high-precision, GPU-accelerated inference and an interactive Streamlit interface, reducing manual inspection and enabling scalable industrial deployment.
->>>>>>> e885703f90809fcaeacb6a0501cfb3ed82ec9523
->>>>>>> c5e7b077c8ec5e6da748dcbee31dedd23d968455
-=======
-# PCB-DEFECT-DETECTION
-AI-powered system for real-time detection of PCB defects (missing holes, solder bridges, open circuits) using YOLOv8. Features high-precision, GPU-accelerated inference and an interactive Streamlit interface, reducing manual inspection and enabling scalable industrial deployment.
->>>>>>> 2adf15ea985f9d917b3bb1e0883b5425f6ba6735
