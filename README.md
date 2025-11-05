@@ -135,4 +135,5 @@ PCB Image → Preprocessing (OpenCV) → YOLOv8 Model → Defect Detection → S
 **Kadiri Sandeyya**  
 - 📧 **Email**: kadirisamson81@gmail.com
 - 💼 **LinkedIn**: [My Linkedin Profile](https://www.linkedin.com/in/kadirisandeyya)
-=======
+
+---
