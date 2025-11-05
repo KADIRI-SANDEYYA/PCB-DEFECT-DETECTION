@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 🔍 Automated PCB Defect Detection using YOLOv8
 
 An AI-powered system for **real-time detection of defects in Printed Circuit Boards (PCBs)** using the **YOLOv8** deep learning architecture.  
@@ -148,3 +149,7 @@ AI-powered system for real-time detection of PCB defects (missing holes, solder 
 AI-powered system for real-time detection of PCB defects (missing holes, solder bridges, open circuits) using YOLOv8. Features high-precision, GPU-accelerated inference and an interactive Streamlit interface, reducing manual inspection and enabling scalable industrial deployment.
 >>>>>>> e885703f90809fcaeacb6a0501cfb3ed82ec9523
 >>>>>>> c5e7b077c8ec5e6da748dcbee31dedd23d968455
+=======
+# PCB-DEFECT-DETECTION
+AI-powered system for real-time detection of PCB defects (missing holes, solder bridges, open circuits) using YOLOv8. Features high-precision, GPU-accelerated inference and an interactive Streamlit interface, reducing manual inspection and enabling scalable industrial deployment.
+>>>>>>> 2adf15ea985f9d917b3bb1e0883b5425f6ba6735
