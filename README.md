@@ -67,8 +67,7 @@ This project replaces manual inspection with an **AI-powered solution** for **ac
 
 ### Clone the Repository
 
-git clone https://github.com/your-username/PCB-Defect-Detection-YOLOv8.git
-cd PCB-Defect-Detection-YOLOv8
+git clone (https://github.com/KADIRI-SANDEYYA/PCB-DEFECT-DETECTION.git)
 
 ### Create a Python virtual environment
 python -m venv pcb
